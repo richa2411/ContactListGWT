@@ -1,0 +1,45 @@
+@CHARSET "ISO-8859-1";
+
+body{
+   text-align: left;
+   font-size: 2em;
+   font-family: verdana, sans-serif;
+}
+h3{
+   font-size: 2em;
+   font-style : bold;
+  border-top-color: #ff0000
+ 
+ text-align: left;
+   
+}
+
+ .gwt-DecoratedPopupPanel .popupMiddleCenter {
+ 
+    margin: 400px 20px 200px;
+     background-color: #99CCCC	;
+ }
+ 
+ .decoratorPanel
+ {
+  background-color: #99CCCC	;
+ }
+
+ .gwt-TextBox {  
+    border: 50px;
+}
+
+.gwt-Border{ 
+   border:1px solid green;
+    background-color: #99CCCC	;
+}
+
+
+
+
+.Color {
+   background-color: #99CCCC	;
+}
+ 
+ 
+  
